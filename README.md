@@ -10,17 +10,17 @@ How many mole hills are in your gardens?
 - Everything that touches the outside of the map and is not enclosed in fences is other space. A fence is always between garden space and other space.
 - Mole hills cannot be on fences.
 
-##Input
+## Input
 16 lines of 16 symbols, representing the map of the area.
 
-##Output
+## Output
 An integer for the number of mole hills in your gardens.
 
-##Constraints
+## Constraints
 16 lines of 16 symbols.
 
-##Example
-##Input
+## Example
+## Input
 ```
 ................
 ................
@@ -40,5 +40,5 @@ An integer for the number of mole hills in your gardens.
 ................
 ```
 
-##Output
+## Output
 2
