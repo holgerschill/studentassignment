@@ -21,7 +21,7 @@ An integer for the number of mole hills in your gardens.
 
 ##Example
 ##Input
-'''
+’’’
 ................
 ................
 ..+----------+..
