@@ -1,4 +1,4 @@
-# Algorithmic problem
+# A mountain of a mole hill
 
 Moles have infested a 16x16 area.
 The fences of your gardens are outlined on maps with |, + and - symbols.
